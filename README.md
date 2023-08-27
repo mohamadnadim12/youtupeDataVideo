@@ -1,6 +1,5 @@
 # youtupeDataVideo
 
-Sure! Here's a sample README.md file that you can use to provide information about your Flutter app and how to use it:
 
 ```
 # YouTube Video Info App
