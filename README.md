@@ -45,9 +45,9 @@ flutter run
 ```
 
 ## Screenshots
+![Screenshot 1](https://github.com/mohamadnadim12/youtupeDataVideo/assets/68957846/57ef7e41-d5ab-4e15-9a23-d994f207f88d)
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+
 
 ## License
 
