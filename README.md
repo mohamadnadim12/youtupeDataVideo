@@ -1,7 +1,7 @@
 # youtupeDataVideo
 
 
-```
+
 # YouTube Video Info App
 
 This is a Flutter app that allows you to fetch and display information about a YouTube video using the YouTube Explode library.
@@ -58,7 +58,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Flutter](https://flutter.dev/)
 - [Youtube Explode Dart](https://pub.dev/packages/youtube_explode_dart)
 
-```
+
 
 Remember to replace `"https://github.com/yourusername/youtube_video_info_app.git"` with the actual URL of your GitHub repository.
 
